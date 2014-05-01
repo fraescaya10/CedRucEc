@@ -1,4 +1,4 @@
 CedRucEc
 ========
 
-ValidaCedRucEc
+Algoritmo python para validacion de cedula y ruc en Ecuador
